@@ -1,0 +1,59 @@
+body{
+	background-color:white;
+	margin:0px;
+	opacity:.8;
+}
+
+
+h1{
+font-family: 'Exo', sans-serif;
+margin:0px;
+}
+
+#mapid { 
+	height: 45vw; 
+	width:100%;
+	margin:auto;
+}
+
+#info > div {
+	display: none;
+	text-align:center;
+	padding-right:20px;
+	margin:auto;
+	z-index:1;
+
+}
+p{
+	font-family: 'Exo', sans-serif;
+	margin:0px;
+}
+h2{
+	font-family: 'Exo', sans-serif;
+}
+img{
+	height:300px;
+}
+.bar{
+	width:100%;
+	color:grey;
+	background-color:lightgrey;
+	margin:0px;
+}
+
+#twit{
+  width: 35px;
+  height: 35px;
+  float:right;
+  
+}
+
+#fb{
+  width: 35px;
+  height: 35px;
+  float:right;
+
+}
+
+
+
